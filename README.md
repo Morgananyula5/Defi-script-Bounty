@@ -25,4 +25,4 @@ This DeFi script is designed to demonstrate the integration of multiple DeFi pro
 
 Below is a diagram illustrating the sequence of steps and interactions between the DeFi protocols involved in this script.
 
-![DeFi Workflow Diagram](assets/Defi.jpg)
+![DeFi Workflow Diagram](Defi.jpg)
